@@ -1,0 +1,1 @@
+const master = 'Master branch'
