@@ -1,0 +1,1 @@
+const b6 = 'created from b3'
