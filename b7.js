@@ -1,0 +1,1 @@
+const b7 = 'from b3, with b3 instead of origin'
