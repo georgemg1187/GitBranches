@@ -1,0 +1,1 @@
+const thirdBranch = 'Third branch -> also created from master'
